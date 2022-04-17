@@ -33,5 +33,5 @@ TweeteQuoteIt! is a simple cli tool that can be used to generate quotes from twe
 ## Contributors
 
 - [Rijfas](https://github.com/rijfas)
-- [Umayya Nahan](https://github.com/FaizArifUP)
+- [Umayya Nahan](https://github.com/UmayyaNahanAP)
 - [Thamjid](https://github.com/Thamjid)
